@@ -983,12 +983,13 @@ Un curry de haricots rouges réconfortant et copieux, servi avec du riz à la va
     Crêpe croustillante de riz et lentilles fermentés, garnie de fromage Paneer ou de Tofu aux épices, servie avec chutneys, sambar et salade. *Option végétalienne avec tofu sur demande.* 🌱Ⓥ / *Crispy fermented rice and lentil crepe filled with spiced Paneer or Tofu, served with chutneys, sambar, and salad. Vegan option with tofu upon request.*
 `,ys=`| | | |
 | :--- | :--- | :--- |
-| **Boissons** | Mango Lassi <br/> Kombucha <br/> Super Bock | 5 CHF |
-| | Café BIO <br/> Chai | 3.50 |
+| **Boissons** | Mango Lassi <br/> Kombucha <br/> Super Bock | 6 CHF |
+| | Café BIO <br/> Chai | 4.2 4.50 |
 | | Bière Indienne <br/> Bière Sans Gluten | 7 CHF |
 | **Dessert** | Millet Banana Shira <br/> Gâteau Choc. Biscoff | 5 CHF |
-| **Suppléments** | Naan au Beurre <br/> Sev Puri <br/> Paratha Methi | 5 CHF |
-| | Naan au Fromage <br/> Naan à l'Ail | 6 CHF |
+| **Suppléments** | Sev Puri <br/> Paratha Methi | 5 CHF |
+| | Naan au Beurre | 6  CHF |
+| | Naan au Fromage <br/> Naan à l'Ail | 7  CHF |
 | | Naan Amritsari | 8 CHF |
 `,bs=`### Entrées
 
