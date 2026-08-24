@@ -1032,7 +1032,7 @@ Un curry de haricots rouges réconfortant et copieux, servi avec du riz à la va
     Caviar d'aubergines grillées aux épices (Baingan Bharta), servi avec du dal traditionnel et du riz basmati. / *Smoked spiced eggplant mash (Baingan Bharta), served with traditional dal and basmati rice.*
 
 * ### **Butter Chicken :** 🍗 <span class="prix">22 CHF🍽️ / 20 CHF🥡</span>
-    Poulet tendre mijoté dans une sauce onctueuse aux tomates, beurre et épices douces, servi avec du riz et des poivrons grillés. *Poulet : Origine Suisse.* / *Tender chicken simmered in a rich tomato, butter, and mild spice sauce, served with rice and grilled bell peppers. Chicken: Origin Switzerland.*
+    Poulet tendre mijoté dans une sauce onctueuse aux tomates, beurre et épices douces, servi avec du riz et des poivrons grillés. *Poulet : Origine Slovénie.* / *Tender chicken simmered in a rich tomato, butter, and mild spice sauce, served with rice and grilled bell peppers. Chicken: Origin Slovenia.*
 `,Es=`### 26 Août, Mercredi
 
 * ### **Curry de Crevettes Style Kerala :** 🦐 <span class="prix">22 CHF🍽️ / 20 CHF🥡</span>
