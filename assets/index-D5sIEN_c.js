@@ -5,11 +5,9 @@ Founded by Chef **Dia Patel**, our kitchen in the heart of Geneva brings you the
 
 Here, each plate tells a story — a story of tradition, passion, and the joy of sharing food. We invite you to savor India’s culinary legacy with us, one unforgettable bite at a time.
 
-Every ingredient is carefully selected, and every dish is crafted with precision and love, ensuring a memorable dining experience for every guest.   `,Zi=`<!-- show: false -->
+Every ingredient is carefully selected, and every dish is crafted with precision and love, ensuring a memorable dining experience for every guest.   `,Zi=`<!-- show: true -->
 ### Holiday Notice
-Our restaurant will be closed for the holidays.
-We look forward to welcoming you back on Monday, 17 August.
-Thank you for your understanding, and have a wonderful summer! ☀️
+We will be closed on 10 September for Jeûne genevois.
 `,Qi=`📍 Address: **Rue Schaub 11, 1202 Genève**
 
 📞 Phone: **[+41 227 34 11 22](tel:+41227341122)**
@@ -637,11 +635,10 @@ Fondée par la Cheffe **Dia Patel**, notre cuisine au cœur de Genève vous prop
 
 Ici, chaque assiette raconte une histoire — une histoire de tradition, de passion et du plaisir de partager un bon repas. Nous vous invitons à savourer avec nous l’héritage culinaire de l’Inde, une bouchée inoubliable à la fois.
 
-Chaque ingrédient est soigneusement sélectionné, et chaque plat est préparé avec précision et amour, afin d’offrir à chaque convive une expérience gastronomique mémorable.`,Eo=`<!-- show: false -->
+Chaque ingrédient est soigneusement sélectionné, et chaque plat est préparé avec précision et amour, afin d’offrir à chaque convive une expérience gastronomique mémorable.`,Eo=`<!-- show: true -->
 ### Avis de Fermeture
-Notre restaurant sera fermé pour les vacances.
-Nous aurons le plaisir de vous accueillir à nouveau à partir du lundi 17 août.
-Merci de votre compréhension et bel été ! ☀️
+Nous serons fermés le 10 septembre à l'occasion du Jeûne genevois.
+
 `,Do=`📍 Adresse: **Rue Schaub 11, 1202 Genève**
 
 📞 Téléphone: **[+41 227 34 11 22](tel:+41227341122)**
