@@ -7,7 +7,7 @@ Here, each plate tells a story — a story of tradition, passion, and the joy of
 
 Every ingredient is carefully selected, and every dish is crafted with precision and love, ensuring a memorable dining experience for every guest.   `,Zi=`<!-- show: true -->
 ### Holiday Notice
-We will be closed on 10 September for Jeûne genevois.
+We will be closed on 10 and 11 September for Jeûne genevois.
 `,Qi=`📍 Address: **Rue Schaub 11, 1202 Genève**
 
 📞 Phone: **[+41 227 34 11 22](tel:+41227341122)**
